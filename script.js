@@ -21,7 +21,7 @@ onload = function(){
 
   // attributeの要素数を配列に格納
   var attStride = new Array(2);
-  attStride[0] = 4;
+  attStride[0] = 3;
   attStride[1] = 4;
 
   // 頂点属性を格納する配列
