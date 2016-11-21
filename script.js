@@ -68,7 +68,7 @@ onload = function(){
   // 恒常ループ
   (function(){
     // canvasを初期化
-    gl.clearColor(0.9, 0.9, 0.9, 0.4);
+    gl.clearColor(0.9, 0.9, 0.9, 0.7);
     gl.clearDepth(1.0);
     gl.clear(gl.COLOR_BUFFER_BIT | gl.DEPTH_BUFFER_BIT);
 
